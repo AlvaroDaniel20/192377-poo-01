@@ -16,7 +16,7 @@ public class BankAccount {
     }
 
     public void setAccountNumber(String accountNumber) {
-
+        this.accountNumber = accountNumber;
     }
 
     public double getBalance() {
@@ -24,7 +24,7 @@ public class BankAccount {
     }
 
     public void setBalance(double balance) {
-
+        this.balance = balance;
     }
 
     public double getAmount() {
@@ -32,7 +32,7 @@ public class BankAccount {
     }
 
     public void setAmount(double amount) {
-
+        this.amount = amount;
     }
 
     public void deposit(double amount) {
