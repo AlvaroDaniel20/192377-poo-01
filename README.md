@@ -23,6 +23,10 @@ Write a short paragraph (5–8 sentences):
 
 *(Hints: you can talk about UML, encapsulation, constructors, or understanding the exam in English.)*
 
+
+Tuve que investigar mas a fondo sobre diagramas UML y profundizar en algunos campos como encapsulacion y constructores para poder comprender un buen uso.
+algunos temas no se profundizan de manera adecuada por los tiempos estipulados para ver el cronograma, lo que hace que deba investigar mas a fondo sobre algunos temas que el cronograma no profundiza de la manera correcta para un aprendizaje completo, mejorar el cronograma ayudaria a evitar que deba investigar temas como UML en detalle, cuando seria mejor hacerlo con un acompañamiento por el docente apoyado en el cronograma.
+
 ---
 
 ## Evaluation Criteria
